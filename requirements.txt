@@ -1,0 +1,13 @@
+llama-index
+llama-index-llms-bedrock
+llama-index-embeddings-bedrock
+boto3
+ipykernel 
+jupyter
+streamlit
+python-dotenv
+aioboto3
+torch
+transformers
+Pillow
+pypdf

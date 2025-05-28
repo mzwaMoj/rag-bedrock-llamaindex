@@ -1,0 +1,1 @@
+This is a sample document for the LlamaIndex RAG system. It contains information about AI and machine learning. AWS Bedrock provides access to powerful foundation models.
